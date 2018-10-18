@@ -1,9 +1,11 @@
 /* **********************************************************************
  * AVR-GCC source code for Freifunk-Open-MPP-Solar-Tracker
- * Copyright (C) 2017  by Corinna 'Elektra' Aichele 
+ * Copyright (C) 2018  by Corinna 'Elektra' Aichele 
  * 
  * This file is part of the Open-Hardware and Open-Software project 
- * Freifunk-Open-MPP-Solar-Tracker.
+ * Freifunk-Open-MPP-Solar-Tracker 
+ * and the  
+ * ISEMS (Independent Solar Energy Mesh System.
  * 
  * This file is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
